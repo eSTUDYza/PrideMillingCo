@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pridemillingco.co.za" resolutions="1x" timestamp="1555483484203">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pridemillingco.co.za" resolutions="1x" timestamp="1555490523203">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3761594057" ref="index"/>
+    <file name="index.css" crc="338019370" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,18 +12,27 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u203-4.png" crc="390746011" ref="index"/>
     <file name="background copy 2.png" crc="3788353925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u147-8.png" crc="448764595" ref="index"/>
     <file name="u154-4.png" crc="308126627" ref="index"/>
-    <file name="u164-4.png" crc="476630644" ref="index"/>
-    <file name="u176-4.png" crc="148702527" ref="index"/>
-    <file name="u182-4.png" crc="151860797" ref="index"/>
-    <file name="u188-4.png" crc="75441520" ref="index"/>
-    <file name="u197-4.png" crc="3976504831" ref="index"/>
-    <file name="u209-4.png" crc="3881641056" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u203.png" crc="390746011" ref="index"/>
+    <file name="u203-r.png" crc="360087501" ref="index"/>
+    <file name="u164.png" crc="476630644" ref="index"/>
+    <file name="u164-r.png" crc="69134915" ref="index"/>
+    <file name="u176.png" crc="148702527" ref="index"/>
+    <file name="u176-r.png" crc="4189575940" ref="index"/>
+    <file name="u182.png" crc="151860797" ref="index"/>
+    <file name="u182-r.png" crc="4291147449" ref="index"/>
+    <file name="u188.png" crc="75441520" ref="index"/>
+    <file name="u188-r.png" crc="55323533" ref="index"/>
+    <file name="u197.png" crc="3976504831" ref="index"/>
+    <file name="u197-r.png" crc="3971450493" ref="index"/>
+    <file name="u209.png" crc="3881641056" ref="index"/>
+    <file name="u209-r.png" crc="296505134" ref="index"/>
+    <file name="u209-m.png" crc="296505134" ref="index"/>
   </folder>
-  <file name="index.html" crc="116668666" seo="true" mt="1555483261843" redirect="true"/>
+  <file name="index.html" crc="168887629" seo="true" mt="1555490453957" redirect="true"/>
 </manifest>
